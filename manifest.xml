@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Xperia 1 II -->
+  <project name="REvoX-Devices/android_kernel_sony_sm8250" path="kernel/sony/sm8250" remote="github" revision="cnb-kernelsu" />
+
+  <project name="REvoX-Devices/hardware_sony" path="hardware/sony" remote="github" revision="cnb" />
+
+  <project name="REvoX-Devices/android_device_sony_pdx203" path="device/sony/pdx203" remote="github" revision="cnb" />
+  <project name="REvoX-Devices/android_device_sony_sm8250-common" path="device/sony/sm8250-common" remote="github" revision="cnb" />
+
+  <project name="REvoX-Devices/android_vendor_sony_pdx203" path="vendor/sony/pdx203" remote="github" revision="cnb" />
+  <project name="REvoX-Devices/android_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" remote="github" revision="cnb" />
+
+  <project name="realahnet/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="seventeen" />
+  <project name="REvoX-Devices/vendor_sony_so51a" path="vendor/sony/so51a" remote="github" revision="cnb" />
+</manifest>
