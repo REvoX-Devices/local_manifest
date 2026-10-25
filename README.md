@@ -1,10 +1,9 @@
 # local_manifest
 
-Evolution X (Android 17) for Xperia 1 II (pdx203) 用の local manifest です (branch `cnb`)。
+## Build
 
 ```sh
-git clone -b cnb https://github.com/REvoX-Devices/local_manifest .repo/local_manifests
-repo sync -c -j6 --force-sync --no-clone-bundle --no-tags
+source build/envsetup.sh
+lunch lineage_pdx203-cp2a-userdebug
+m evolution
 ```
-
-`vendor_sony_so51a` は private のため、GitHub の認証が必要です。
