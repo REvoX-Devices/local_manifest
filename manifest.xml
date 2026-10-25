@@ -11,6 +11,6 @@
   <project name="REvoX-Devices/android_vendor_sony_pdx203" path="vendor/sony/pdx203" remote="github" revision="cnb" />
   <project name="REvoX-Devices/android_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" remote="github" revision="cnb" />
 
-  <project name="realahnet/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="seventeen" />
+  <project name="REvoX-Devices/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="cnb" />
   <project name="REvoX-Devices/vendor_sony_so51a" path="vendor/sony/so51a" remote="github" revision="cnb" />
 </manifest>
