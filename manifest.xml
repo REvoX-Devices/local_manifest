@@ -13,4 +13,5 @@
 
   <project name="REvoX-Devices/vendor_sony_extra" path="vendor/sony/extra" remote="github" revision="cnb" />
   <project name="REvoX-Devices/vendor_sony_so51a" path="vendor/sony/so51a" remote="github" revision="cnb" />
+  <project name="REvoX-Devices/vendor_sony_revox-tweaks" path="vendor/sony/revox-tweaks" remote="github" revision="cnb" />
 </manifest>
